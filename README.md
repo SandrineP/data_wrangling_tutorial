@@ -1,1 +1,1 @@
-# data_wrangling_tutorial
+# Data Wrangling Tutorial
